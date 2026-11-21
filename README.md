@@ -4,6 +4,20 @@ A cold-blooded, hacker-flavoured theme for [Omarchy](https://omarchy.org), built
 
 ![Frosty preview](preview.png)
 
+## Screenshots
+
+**Desktop**: the hexdump wallpaper with the Frosty bar
+![Desktop](screenshots/desktop.png)
+
+**Shell panel**: a panel card with the cyan → blue border
+![Agents panel](screenshots/agents-panel.png)
+
+**Terminal**: Ghostty with the cyan → mint → violet window border
+![Terminal](screenshots/terminal.png)
+
+**Theme picker**: Frosty selected, with the violet selection border
+![Theme picker](screenshots/theme-picker.png)
+
 ## Install
 
 ```bash
@@ -49,7 +63,7 @@ Every colour comes from frostwolf.app's CSS tokens.
 
 | `1-hexdump` (default) | `2-glyph-rain` | `3-frost-terminal` |
 |---|---|---|
-| ![](screenshots/hexdump.png) | ![](screenshots/glyph-rain.png) | ![](screenshots/frost-terminal.png) |
+| ![](screenshots/wallpapers/hexdump.png) | ![](screenshots/wallpapers/glyph-rain.png) | ![](screenshots/wallpapers/frost-terminal.png) |
 
   Cycle them with `omarchy theme bg next`.
 - **Icons**: Yaru-blue-dark.
