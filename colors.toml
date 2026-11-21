@@ -1,0 +1,38 @@
+# Frosty — Omarchy theme built on the frostwolf.app design system
+#   ds-ink #03070d · ds-panel #0a0f19 · ds-line #1c2433 · ds-paper #eef3fa · ds-dim #9fb0c7
+#   frost-accent #5fe4ff · frost-primary #b3f0ff · frost-surface #0a2530 · frost-muted #1b4a57
+#   ds-sig #5effc1 · ds-hot #3a6bff · ds-acid #c77dff · ds-red #ff3b3b
+mode = "dark"
+
+accent = "#5fe4ff"
+selection = "#0a2530"
+muted = "#2b5a68"
+
+background = "#03070d"
+dark_background = "#020509"
+darker_background = "#010306"
+lighter_background = "#0a0f19"
+
+foreground = "#d4e4f2"
+dark_foreground = "#5d7088"
+light_foreground = "#9fb0c7"
+bright_foreground = "#eef3fa"
+
+hyprland_active_border = "rgba(5fe4ffee) rgba(5effc1ee) rgba(c77dffee) 45deg"
+hyprland_inactive_border = "rgba(3a6bff44) rgba(c77dff33) 45deg"
+
+red = "#ff3b3b"
+yellow = "#fbbf24"
+orange = "#fb7185"
+green = "#5effc1"
+cyan = "#5fe4ff"
+blue = "#3a6bff"
+magenta = "#c77dff"
+brown = "#1b4a57"
+
+bright_red = "#ff6b6b"
+bright_yellow = "#fde68a"
+bright_green = "#a8ffe0"
+bright_cyan = "#b3f0ff"
+bright_blue = "#7a9bff"
+bright_magenta = "#ddb3ff"
