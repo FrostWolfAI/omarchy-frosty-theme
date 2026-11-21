@@ -21,7 +21,7 @@ A cold-blooded, hacker-flavoured theme for [Omarchy](https://omarchy.org), built
 ## Install
 
 ```bash
-omarchy theme install https://github.com/FrostWolfAI/frosty-theme-omarchy
+omarchy theme install https://github.com/FrostWolfAI/omarchy-frosty-theme
 ```
 
 Or from the Omarchy menu: **Install → Style → Theme**, then paste the URL.
